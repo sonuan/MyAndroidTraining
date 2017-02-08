@@ -1,4 +1,4 @@
-# Android Training 1(已修改)
+# Android Training 1(已修改feature 7week)
 
 # Android入门基础：从这里开始
 ### 建立你的第一个App
