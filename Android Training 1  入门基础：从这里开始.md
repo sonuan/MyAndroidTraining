@@ -1,6 +1,6 @@
 # Android Training 1(已修改 hotfix2)
 
-# Android入门基础：从这里开始
+# Android入门基础：从这里开始 hotfix
 ### 建立你的第一个App
 
 ##### 应用程序的结构：
