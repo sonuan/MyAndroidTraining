@@ -1,4 +1,4 @@
-# Android Training 1(release_20170216)
+# Android Training 1(release_20170216_2)
 
 # Android入门基础：从这里开始
 ### 建立你的第一个App
